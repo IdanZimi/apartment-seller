@@ -63,3 +63,5 @@ const apartments = [
         }
     }
 ]
+
+console.log(apartments)
